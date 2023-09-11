@@ -1,4 +1,4 @@
-# Barcode Detector
+# Image Processing Toolbox - Barcode Detector
 
 This repository contains a toolbox for barcode detection using a custom-made optimized version of the OpenCV library. All the filters and image transformations for the barcode scanning process were implemented from scratch. The goal of this repository is to try to give an optimized version of the already implemented methods found in the OpenCV library. 
 
